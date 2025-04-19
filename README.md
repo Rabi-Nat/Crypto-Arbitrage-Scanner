@@ -3,7 +3,7 @@
 A cryptocurrency arbitrage scanner with PyQt5 GUI that compares prices across multiple exchanges.
 
 ![Screenshot](docs/images/screenshot.png)
-![UI Screenshot](C:\Users\WINDOWS 10\Desktop\screenshot.png)
+![Screenshot](C:\Users\WINDOWS 10\Desktop\screenshot.png)
 ## Features
 
 - Supports 20+ major exchanges (via CCXT)
