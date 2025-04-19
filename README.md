@@ -19,4 +19,4 @@ A cryptocurrency arbitrage scanner with PyQt5 GUI that compares prices across mu
 git clone https://github.com/your-username/crypto-arbitrage-scanner.git
 cd crypto-arbitrage-scanner
 pip install -r requirements.txt
-python src/main.py
+python main.py
